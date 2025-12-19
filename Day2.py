@@ -1,4 +1,4 @@
-#Find Largest of Three numbers
+#Find Largest of Three number
 first=int(input("Enter the number:"))
 second=int(input("Enter the number:"))
 Third=int(input("Enter the number:"))
